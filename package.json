@@ -1,0 +1,14 @@
+{
+  "name": "customRadioAndCheckbox",
+  "version": "1.0.0",
+  "description": "custom the default radio and checkbox",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "radio",
+    "checkbox"
+  ],
+  "author": "zhenizhui",
+  "license": "MIT"
+}
