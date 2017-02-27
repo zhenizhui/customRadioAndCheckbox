@@ -1,5 +1,11 @@
 # CustomRadioAndCheckbox
 
+# Demo
+
+[demo](https://zhenizhui.github.io/customRadioAndCheckbox/)
+
+# Screenshots
+
 ![github](/screenshots/checkbox-screenshots.gif)
 
 ![github](/screenshots/radio-screenshots.gif)
