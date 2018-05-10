@@ -2,7 +2,9 @@
   "name": "customRadioAndCheckbox",
   "version": "1.0.0",
   "description": "custom the default radio and checkbox",
-  "scripts": {},
+  "scripts": {
+    "build": "gulp buildLess"
+  },
   "keywords": [
     "radio",
     "checkbox"
