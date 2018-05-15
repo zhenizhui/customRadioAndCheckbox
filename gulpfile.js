@@ -24,3 +24,7 @@ gulp.task('buildLess', ['clean-css'], function () {
   .pipe(rename({ extname: '.min.css' }))
   .pipe(gulp.dest('./dist'));
 });
+
+gulp.task('dev', function () {
+  gulp.watch(['./src/less/**/*.less'], ['buildLess']);
+});
