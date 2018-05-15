@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "custom the default radio and checkbox",
   "scripts": {
-    "build": "gulp buildLess"
+    "build": "gulp buildLess",
+    "dev": "gulp dev"
   },
   "keywords": [
     "radio",
